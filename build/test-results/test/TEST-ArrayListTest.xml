@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ArrayListTest" tests="13" skipped="0" failures="0" errors="0" timestamp="2021-05-22T03:45:27" hostname="Hectors-MacBook-Pro.local" time="0.013">
+  <properties/>
+  <testcase name="varArgConstructorCheckSize" classname="ArrayListTest" time="0.01"/>
+  <testcase name="removeElementAtIndexSuccessfully" classname="ArrayListTest" time="0.0"/>
+  <testcase name="addElementsCheckSize" classname="ArrayListTest" time="0.0"/>
+  <testcase name="removeElementCheckSize" classname="ArrayListTest" time="0.0"/>
+  <testcase name="emptyListInitializeCapacityCheckCapacity" classname="ArrayListTest" time="0.0"/>
+  <testcase name="emptyListCheckCapacity" classname="ArrayListTest" time="0.0"/>
+  <testcase name="copyConstructorCheckContents" classname="ArrayListTest" time="0.0"/>
+  <testcase name="removeElementUnsuccessfully" classname="ArrayListTest" time="0.0"/>
+  <testcase name="copyConstructorCheckSize" classname="ArrayListTest" time="0.0"/>
+  <testcase name="removeElementSuccessfully" classname="ArrayListTest" time="0.0"/>
+  <testcase name="emptyListCheckSize" classname="ArrayListTest" time="0.0"/>
+  <testcase name="resizeListCheckCapacity" classname="ArrayListTest" time="0.001"/>
+  <testcase name="addElementAtIndexCheckValue" classname="ArrayListTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
